@@ -1469,6 +1469,7 @@
 					/usr/local/lib/libssh2.a,
 					"-lcrypto",
 					"-lssl",
+					/opt/local/lib/libiconv.a,
 				);
 				PRODUCT_NAME = ObjectiveGit;
 				WRAPPER_EXTENSION = framework;
@@ -1492,6 +1493,7 @@
 					/usr/local/lib/libssh2.a,
 					"-lcrypto",
 					"-lssl",
+					/opt/local/lib/libiconv.a,
 				);
 				PRODUCT_NAME = ObjectiveGit;
 				WRAPPER_EXTENSION = framework;
@@ -1676,6 +1678,7 @@
 					/usr/local/lib/libssh2.a,
 					"-lcrypto",
 					"-lssl",
+					/opt/local/lib/libiconv.a,
 				);
 				PRODUCT_NAME = ObjectiveGit;
 				WRAPPER_EXTENSION = framework;
@@ -1897,6 +1900,7 @@
 					/usr/local/lib/libssh2.a,
 					"-lcrypto",
 					"-lssl",
+					/opt/local/lib/libiconv.a,
 				);
 				PRODUCT_NAME = ObjectiveGit;
 				WRAPPER_EXTENSION = framework;
